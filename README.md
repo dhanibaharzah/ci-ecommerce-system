@@ -4,7 +4,7 @@ Full system of ecommerce with user-side and admin-side
 - See the user-side demo [here](https://midtrans.tonsu.space)
 - See the admin-side by contact us [here](https://wa.me/6281317679056)
 
-Please [contact us](https://wa.me/6281317679056) to get full instalation in your servers in reaseonable price.
+Please [contact us](https://wa.me/6281317679056) to get full installation in your servers in reasonable price.
 
 ###################
 What is CodeIgniter
