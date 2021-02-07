@@ -27,7 +27,7 @@ $config['midtrans_production'] = false;
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/olshopv4/';
+$config['base_url'] = 'http://localhost/ci-ecommerce-system/';
 
 /*
 |--------------------------------------------------------------------------
@@ -39,7 +39,7 @@ $config['base_url'] = 'http://localhost/olshopv4/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
